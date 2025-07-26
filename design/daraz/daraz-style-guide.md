@@ -2,14 +2,16 @@
 
 Based on official Daraz brand guidelines and website visuals
 
-/students/rollXXXX-StudentName/
-├── index.html
-├── style.css
-├── responsive.css         ← Optional
-├── meezan-style-guide.md
-└── images/
-    ├── hero-banner.jpg
-    └── logo.png
+---
+
+student/
+└── rollxxxxx-StudentName/
+
+    ├── index.html
+    ├── style.css
+    ├── responsive.css
+    ├── images/
+    │   └── placeholder.png
 
 ---
 
@@ -26,7 +28,7 @@ Based on official Daraz brand guidelines and website visuals
 | Purple                   | `#663361`  |
 | White Background/Text    | `#FFFFFF`  |
 
-Use orange & teal combination for primary brand emphasis; use secondary colors for accents. Avoid improper pairings like dark blue with yellow in buttons. :contentReference[oaicite:17]{index=17}
+Use orange & teal combination for primary brand emphasis; use secondary colors for accents. Avoid improper pairings like dark blue with yellow in buttons.
 
 ---
 
