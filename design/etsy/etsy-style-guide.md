@@ -4,14 +4,14 @@ Based on Etsy's official branding and logo design elements.
 
 ---
 
-/students/rollXXXX-StudentName/
-├── index.html
-├── style.css
-├── responsive.css         ← Optional
-├── meezan-style-guide.md
-└── images/
-    ├── hero-banner.jpg
-    └── logo.png
+student/
+└── rollxxxxx-StudentName/
+
+    ├── index.html
+    ├── style.css
+    ├── responsive.css
+    ├── images/
+    │   └── placeholder.png
 
 ---
 
@@ -27,7 +27,7 @@ Based on Etsy's official branding and logo design elements.
 
 ## 🔤 Typography
 
-- **Logo**: Minister EF Book (serif) — custom Etsy logotype. :contentReference[oaicite:11]{index=11}  
+- **Logo**: Minister EF Book (serif) — custom Etsy logotype.
 - **Body/UI text**: Use a clean sans-serif (e.g., Arial, Helvetica, sans-serif) for consistent readability.
 
 ---
