@@ -4,14 +4,15 @@ Based on the official Meezan Bank website and branding elements
 
 ---
 
-/students/rollXXXX-StudentName/
-├── index.html
-├── style.css
-├── responsive.css         ← Optional
-├── meezan-style-guide.md
-└── images/
-    ├── hero-banner.jpg
-    └── logo.png
+student/
+└── rollxxxxx-StudentName/
+
+    ├── index.html
+    ├── style.css
+    ├── responsive.css
+    ├── images/
+    │   └── placeholder.png
+
 
 ---
 
