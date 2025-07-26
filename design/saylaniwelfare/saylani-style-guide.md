@@ -4,13 +4,14 @@ Inspired by the official website: [https://saylaniwelfare.com](https://saylaniwe
 
 ---
 
-/students/rollXXXX-StudentName/
-├── index.html
-├── style.css
-├── responsive.css         ← Optional
-└── images/
-    ├── hero-banner.jpg
-    └── logo.png
+student/
+└── rollxxxxx-StudentName/
+
+    ├── index.html
+    ├── style.css
+    ├── responsive.css
+    ├── images/
+    │   └── placeholder.png
 
 ---
 
