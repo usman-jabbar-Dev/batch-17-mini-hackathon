@@ -2,8 +2,6 @@
 
 Based on official Daraz brand guidelines and website visuals
 
----
-
 /students/rollXXXX-StudentName/
 ├── index.html
 ├── style.css
