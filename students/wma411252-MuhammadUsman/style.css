@@ -1,0 +1,72 @@
+.top{
+    display: flex;
+}
+
+.nav-bar{
+    display: flex;
+}
+.image{
+    margin-top: 20px;
+    gap: 50px;
+    margin-left: 10px;
+}
+.betton{
+    margin-top: 20px;
+    margin-left: 1050px;
+}
+.nav-item ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    font-size: larger;
+    margin-left: 500px;
+}
+.nav-button{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: blue;
+}
+.nav-item ul a{
+    color: black;
+}
+.hore{
+    display: flex;
+}
+.left-side-of-hore h1{
+    font-size: 50px;
+}
+.left-side-of-hore{
+    margin-right: 400px;
+}
+.left-side-of-hore button{
+    height: 50px;
+    width: 150px;
+}
+.buttrn{
+    display: flex;;
+    margin-top: 100px;
+    background-color: rgb(123, 201, 123);
+    margin-left: 50px;
+}
+.from input{
+   font-size: 30px;
+}
+.from button{
+    font-size: 25px;
+}
+.write-button button{
+    gap: 70px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.button-green button{
+    margin-left: 20px;
+    font-size: 20px;
+    background-color: green;
+}
+.gh{
+    display: flex;
+}
+.right{
+    margin-left: 200px;
+}
